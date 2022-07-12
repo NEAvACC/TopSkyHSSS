@@ -1,0 +1,38 @@
+// International Squawk
+RANGE:1201:1277
+ADEP:HS:HJ
+NOTADES:HS:HJ
+IFR
+
+
+// Domestic Squawk
+RANGE:5301:5377
+ADEP:HS:HJ
+ADES:HS:HJ
+IFR
+
+
+// Area Control Center Arrivals
+RANGE:5201:5277
+ADES:HS:HJ
+IFR
+
+
+// Area Control Center Transit
+RANGE:0101:0177
+NOTADEP:HS:HJ
+NOTADES:HS:HJ
+IFR
+
+
+// Area Control Center Transit
+RANGE:1301:1377
+NOTADEP:HS:HJ
+NOTADES:HS:HJ
+SECONDARY
+IFR
+
+
+// VFR
+RANGE:7001:7077
+VFR
